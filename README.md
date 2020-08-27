@@ -1,6 +1,6 @@
 # AI mHealth Managemwnt System
 
-![image](https://github.com/leochen66/AI-mHealth/blob/master/image1.png
+![image](https://github.com/leochen66/AI-mHealth/blob/master/picdisplay/image1.png
 )
 
 ## Introduction
