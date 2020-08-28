@@ -11,6 +11,7 @@ This project aim at helping people track their own exercise record. By mobile ph
 Please watch introduction video =><br/>
 https://www.youtube.com/watch?v=EkwEQV9FzXI
 
+
 ## Execution
 This is a Flask based website, "Tracker.py" is a server program.
 ```
@@ -18,12 +19,17 @@ python Tracker.py
 ```
 Then, go to browser and search for http://localhost:5000
 
-## Demo
+
+## Devices
 ![image](https://github.com/leochen66/AI-mHealth/blob/master/display/conmunicate.jpg) <br/>
+![image](https://github.com/leochen66/AI-mHealth/blob/master/display/demo4.jpg) <br/>
+
+
+## Demo
 ![image](https://github.com/leochen66/AI-mHealth/blob/master/display/demo1.jpg) <br/>
 ![image](https://github.com/leochen66/AI-mHealth/blob/master/display/demo2.jpg) <br/>
 ![image](https://github.com/leochen66/AI-mHealth/blob/master/display/demo3.jpg) <br/>
-![image](https://github.com/leochen66/AI-mHealth/blob/master/display/demo4.jpg) <br/>
+
 
 ## Contributors
 Leo Chen 陳力綸 NTPU CSIE <br/>
