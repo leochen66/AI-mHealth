@@ -36,3 +36,4 @@ Leo Chen 陳力綸 NTPU CSIE <br/>
 Jack Chen 陳瀚廷 NTPU CSIE <br/>
 James Lee 李秉毅 NTPU CSIE <br/>
 Shunm Chen 陳宣穎 NTPU CSIE <br/>
+**此專題入選為108年科技部大專生計畫！！！**
