@@ -1,7 +1,6 @@
 # AI mHealth Managemwnt System
 
-![image](https://github.com/leochen66/AI-mHealth/blob/master/picdisplay/image1.png
-)
+![image](https://github.com/leochen66/AI-mHealth/blob/master/display/logo.jpg)
 
 ## Introduction
 This project aim at helping people track their own exercise record. By mobile phone and IOT devices data could be collected and storeed in the database, so that we can do further analysis as following:<br/>
@@ -20,6 +19,11 @@ python Tracker.py
 Then, go to browser and search for http://localhost:5000
 
 ## Demo
+![image](https://github.com/leochen66/AI-mHealth/blob/master/display/conmunicate.jpg) <br/>
+![image](https://github.com/leochen66/AI-mHealth/blob/master/display/demo1.jpg) <br/>
+![image](https://github.com/leochen66/AI-mHealth/blob/master/display/demo2.jpg) <br/>
+![image](https://github.com/leochen66/AI-mHealth/blob/master/display/demo3.jpg) <br/>
+![image](https://github.com/leochen66/AI-mHealth/blob/master/display/demo4.jpg) <br/>
 
 ## Contributors
 Leo Chen 陳力綸 NTPU CSIE <br/>
