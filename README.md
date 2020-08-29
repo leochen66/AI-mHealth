@@ -36,4 +36,4 @@ Leo Chen 陳力綸 NTPU CSIE <br/>
 Jack Chen 陳瀚廷 NTPU CSIE <br/>
 James Lee 李秉毅 NTPU CSIE <br/>
 Shunm Chen 陳宣穎 NTPU CSIE <br/>
-**此專題入選為108年科技部大專生計畫！！！**
+**此專題『具深度學習和低功耗廣域網路之運動管理系統』入選為108年科技部大專生計畫！！！**
